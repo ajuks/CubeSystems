@@ -1,0 +1,20 @@
+﻿td {
+	text-align: center;
+	font-weight: bold;
+	font-family: sans-serif;
+	color: black;
+	font-size: 14px;
+	width:10%;
+}
+.cube {
+	background-color: blue;
+    	color: white;
+}
+.systems {
+    	background-color: red;
+    	color: white;
+}
+.cubesystems {
+    	background-color: blueviolet;
+    	color: white;
+}
